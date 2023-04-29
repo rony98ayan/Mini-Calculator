@@ -1,0 +1,47 @@
+*
+{
+    padding: 0%;
+    box-sizing: border-box;
+    
+    
+}
+.container
+{
+    width: 50%;
+    width: fit-content;
+    padding: 150px;
+    padding-left: 550px;
+    border: 5px;
+    border-color: black;
+}
+.first-sec
+{
+  display: flex;
+  align-items: baseline;
+  gap: 20px;
+}
+.second-sec
+{
+    padding-left: 10px;
+    display: flex;
+    gap: 10px;
+}
+.third-sec
+{
+    padding: 10px;
+}
+.upper
+{
+    display: flex;
+    gap: 5px;
+}
+.lower
+{
+    display: flex;
+    gap: 10px;
+}
+.result
+{
+    width: 70%;
+    border: 1px solid;
+}
